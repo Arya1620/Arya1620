@@ -80,8 +80,36 @@
 
 <!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
+<p align="center">Here are some statistics about my GitHub activity:</p>
 
-<!-- Use GitHub Readme Stats or a similar tool to display your GitHub stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<!-- Top Languages Section -->
+<h2 align="center">Top Languages</h2>
+<p align="center">These are the programming languages I frequently use in my repositories:</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username" alt="Top Languages" />
+</div>
+
+<!-- GitHub Streak Section -->
+<h2 align="center">GitHub Streak</h2>
+<p align="center">My GitHub contribution streak:</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="GitHub Streak" />
+</div>
+
+<!-- GitHub Trophies Section -->
+<h2 align="center">GitHub Trophies</h2>
+<p align="center">Here are my GitHub trophies:</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="GitHub Trophies" />
+</div>
+
 
 <!-- Footer Section -->
 <p align="center">Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 😊</p>
