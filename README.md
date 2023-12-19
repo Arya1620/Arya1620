@@ -134,6 +134,7 @@
     <img src="https://img.shields.io/badge/Blinding%20Lights-The%20Weeknd-1db954?style=for-the-badge&logo=spotify" alt="Blinding Lights - The Weeknd" />
   </a>
   <br />
-  <img src="https://media.giphy.com/media/3o85xGocUH8RYvuyVi/giphy.gif" alt="Music Animation" width="200" height="200" />
+  <img src="https://media.giphy.com/media/l4Fsdu2UcrHjEWhUQ/giphy.gif" alt="Music Animation" width="200" height="200" />
 </div>
+
 
