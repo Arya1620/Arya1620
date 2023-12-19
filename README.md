@@ -1,24 +1,22 @@
-<h1 align="left">Hey what's up?👋</h1>
+<!-- Header Section -->
+<h1 align="center">Hey there! 👋 I'm Aryaman Kaushik</h1>
 
-###
+<!-- Introduction Section -->
+<p align="center">🚀 Welcome to my GitHub profile! I'm a passionate student at IIITM Gwalior, exploring the realms of technology.</p>
 
-<p align="left">My name is Aryaman Kaushik and I'm a student studying at IIITM Gwalior.</p>
+<!-- About Me Section -->
+<h2 align="center">About Me</h2>
+<p align="center">I'm on a journey of continuous learning and exploration in the world of programming. My main interests lie in C++, Python, and web development technologies, particularly the MERN stack.</p>
 
-###
+<!-- Skills Section -->
+<h2 align="center">Skills</h2>
+<p align="center">Here are some technologies and tools I work with:</p>
 
-<h2 align="left">About me</h2>
+<!-- Skills Section -->
+<h2 align="center">Skills</h2>
+<p align="center">Here are some technologies and tools I work with:</p>
 
-###
-
-<p align="left">I have relevant programming experience in programming in C++ and Python. Apart from this, I love working on Web Development Technologies, I preferably worked on the MERN stack, and done over 5 projects while practicing. It took around 6 months to finish learning about the technologies and around a year to polish my skills.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -58,6 +56,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo" />
 </div>
 
-###
 
+<!-- Projects Section -->
+<h2 align="center">Projects</h2>
+<p align="center">I enjoy turning ideas into reality. Here are a few projects I've worked on:</p>
 
+<!-- List Your Projects Here -->
+
+<!-- Connect with Me Section -->
+<h2 align="center">Connect with Me</h2>
+<p align="center">Let's connect and collaborate on exciting projects! Reach out to me on:</p>
+
+<!-- Your Social Media or Contact Links Go Here -->
+
+<!-- GitHub Stats Section -->
+<h2 align="center">GitHub Stats</h2>
+
+<!-- Use GitHub Readme Stats or a similar tool to display your GitHub stats -->
+
+<!-- Footer Section -->
+<p align="center">Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 😊</p>
