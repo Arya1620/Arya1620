@@ -76,7 +76,10 @@
 </div>
 
 
-<!-- Your Social Media or Contact Links Go Here -->
+<!-- Social Media Section -->
+## Social Media 📱
+You can connect with me on Instagram:
+[![Instagram](https://img.shields.io/badge/Instagram-aryamankaushik1620-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aryamankaushik1620/?hl=en)
 
 
 <!-- GitHub Stats Section -->
