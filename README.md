@@ -1,8 +1,8 @@
-<h1 align="left">Hey what's up?</h1>
+<h1 align="left">Hey what's up?👋</h1>
 
 ###
 
-<p align="left">My name is Aryaman Kaushik and I'm a student studying at ITTTM Gwalior.</p>
+<p align="left">My name is Aryaman Kaushik and I'm a student studying at IIITM Gwalior.</p>
 
 ###
 
