@@ -141,7 +141,7 @@ You can connect with me on Instagram:
 </div>
 
 <!-- Vinyl Record Animation -->
-![](https://media.giphy.com/media/l0K3Zgs9iPvVofyWk/giphy.gif)
+![](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
 
 <!-- Profile Views Section -->
 ## Profile Views 👀
