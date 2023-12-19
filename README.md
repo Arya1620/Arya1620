@@ -130,7 +130,10 @@
 <p align="center">I'm currently vibing to:</p>
 
 <div align="center">
-  [![Blinding Lights - The Weeknd](https://img.shields.io/badge/Blinding%20Lights-The%20Weeknd-1db954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
+  <a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b">
+    <img src="https://img.shields.io/badge/Blinding%20Lights-The%20Weeknd-1db954?style=for-the-badge&logo=spotify" alt="Blinding Lights - The Weeknd" />
+  </a>
+  <br />
+  <img src="https://media.giphy.com/media/3o85xGocUH8RYvuyVi/giphy.gif" alt="Music Animation" width="200" height="200" />
 </div>
-
 
