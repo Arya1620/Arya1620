@@ -140,6 +140,9 @@ You can connect with me on Instagram:
   <img src="https://media.giphy.com/media/3o85xGocUH8RYvuyVi/giphy.gif" alt="Music Animation" width="200" height="200" />
 </div>
 
+<!-- Vinyl Record Animation -->
+![Vinyl Record Animation](https://media.giphy.com/media/l0K3Zgs9iPvVofyWk/giphy.gif)
+
 <!-- Profile Views Section -->
 ## Profile Views 👀
 ![Profile Views](https://komarev.com/ghpvc/?username=Arya1620)
