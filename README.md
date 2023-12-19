@@ -137,6 +137,10 @@
   <img src="https://media.giphy.com/media/3o85xGocUH8RYvuyVi/giphy.gif" alt="Music Animation" width="200" height="200" />
 </div>
 
+<!-- Profile Views Section -->
+## Profile Views 👀
+![Profile Views](https://komarev.com/ghpvc/?username=Arya1620)
+
 
 
 
