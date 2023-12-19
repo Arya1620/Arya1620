@@ -78,37 +78,67 @@
 
 <!-- Your Social Media or Contact Links Go Here -->
 
-<!-- GitHub Stats Section -->
-<h2 align="center">GitHub Stats</h2>
-<p align="center">Here are some statistics about my GitHub activity:</p>
+<style>
+  /* Add a style block to customize the appearance */
+  body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+  }
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arya1620&show_icons=true&count_private=true" alt="GitHub Stats" />
+  h2 {
+    color: #00ffcc;
+  }
+
+  p {
+    color: #66ff33;
+  }
+
+  img {
+    border-radius: 8px; /* Add rounded corners to images */
+  }
+</style>
+
+<!-- GitHub Stats Section -->
+<div style="background-color: #111; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2 align="center">GitHub Stats</h2>
+  <p align="center">Here are some statistics about my GitHub activity:</p>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arya1620&show_icons=true&count_private=true" alt="GitHub Stats" />
+  </div>
 </div>
 
 <!-- Top Languages Section -->
-<h2 align="center">Top Languages</h2>
-<p align="center">These are the programming languages I frequently use in my repositories:</p>
+<div style="background-color: #111; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2 align="center">Top Languages</h2>
+  <p align="center">These are the programming languages I frequently use in my repositories:</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya1620" alt="Top Languages" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya1620" alt="Top Languages" />
+  </div>
 </div>
 
 <!-- GitHub Streak Section -->
-<h2 align="center">GitHub Streak</h2>
-<p align="center">My GitHub contribution streak:</p>
+<div style="background-color: #111; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2 align="center">GitHub Streak</h2>
+  <p align="center">My GitHub contribution streak:</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya1620" alt="GitHub Streak" />
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya1620" alt="GitHub Streak" />
+  </div>
 </div>
 
 <!-- GitHub Trophies Section -->
-<h2 align="center">GitHub Trophies</h2>
-<p align="center">Here are my GitHub trophies:</p>
+<div style="background-color: #111; padding: 20px; border-radius: 8px;">
+  <h2 align="center">GitHub Trophies</h2>
+  <p align="center">Here are my GitHub trophies:</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arya1620" alt="GitHub Trophies" />
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arya1620" alt="GitHub Trophies" />
+  </div>
 </div>
+
 
 
 
