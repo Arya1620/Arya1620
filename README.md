@@ -134,7 +134,9 @@
     <img src="https://img.shields.io/badge/Blinding%20Lights-The%20Weeknd-1db954?style=for-the-badge&logo=spotify" alt="Blinding Lights - The Weeknd" />
   </a>
   <br />
-  <img src="https://media.giphy.com/media/l4Fsdu2UcrHjEWhUQ/giphy.gif" alt="Music Animation" width="200" height="200" />
+  <iframe src="https://giphy.com/embed/4oMoIbIQrvCjm" width="480" height="369" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/the-simpsons-bart-simpson-4oMoIbIQrvCjm">via GIPHY</a></p>
 </div>
+
 
 
