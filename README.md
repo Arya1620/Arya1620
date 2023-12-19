@@ -12,10 +12,6 @@
 <h2 align="center">Skills</h2>
 <p align="center">Here are some technologies and tools I work with:</p>
 
-<!-- Skills Section -->
-<h2 align="center">Skills</h2>
-<p align="center">Here are some technologies and tools I work with:</p>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
@@ -65,7 +61,20 @@
 
 <!-- Connect with Me Section -->
 <h2 align="center">Connect with Me</h2>
-<p align="center">Let's connect and collaborate on exciting projects! Reach out to me on:</p>
+<p align="center">Let's connect and collaborate on exciting projects! Reach out to me via email or connect on LinkedIn:</p>
+
+<div align="center">
+  <!-- Email -->
+  <a href="mailto:arya16200@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-arya16200%40gmail.com-ff69b4" alt="Email" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aryaman-kaushik/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryaman%20Kaushik-blue" alt="LinkedIn" />
+  </a>
+</div>
+
 
 <!-- Your Social Media or Contact Links Go Here -->
 
