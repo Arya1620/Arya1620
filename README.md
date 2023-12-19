@@ -78,26 +78,6 @@
 
 <!-- Your Social Media or Contact Links Go Here -->
 
-<style>
-  /* Add a style block to customize the appearance */
-  body {
-    background-color: #000;
-    color: #fff;
-    font-family: 'Arial', sans-serif;
-  }
-
-  h2 {
-    color: #00ffcc;
-  }
-
-  p {
-    color: #66ff33;
-  }
-
-  img {
-    border-radius: 8px; /* Add rounded corners to images */
-  }
-</style>
 
 <!-- GitHub Stats Section -->
 <div style="background-color: #111; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
