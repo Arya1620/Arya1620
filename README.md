@@ -124,3 +124,12 @@
 
 <!-- Footer Section -->
 <p align="center">Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 😊</p>
+
+<!-- Currently Playing Section -->
+<h2 align="center">Currently Playing 🎶</h2>
+<p align="center">I'm currently vibing to:</p>
+
+<div align="center">
+  [![Blinding Lights - The Weeknd](https://img.shields.io/badge/Blinding%20Lights-The%20Weeknd-1db954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
+</div>
+
