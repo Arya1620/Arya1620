@@ -137,11 +137,9 @@ You can connect with me on Instagram:
     <img src="https://img.shields.io/badge/Blinding%20Lights-The%20Weeknd-1db954?style=for-the-badge&logo=spotify" alt="Blinding Lights - The Weeknd" />
   </a>
   <br />
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Music Animation" width="200" height="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Music Animation" width="400" height="400" />
 </div>
 
-<!-- Vinyl Record Animation -->
-![](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
 
 <!-- Profile Views Section -->
 ## Profile Views 👀
