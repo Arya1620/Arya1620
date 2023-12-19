@@ -83,7 +83,7 @@
 <p align="center">Here are some statistics about my GitHub activity:</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arya1620&show_icons=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <!-- Top Languages Section -->
@@ -91,7 +91,7 @@
 <p align="center">These are the programming languages I frequently use in my repositories:</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya1620" alt="Top Languages" />
 </div>
 
 <!-- GitHub Streak Section -->
@@ -99,7 +99,7 @@
 <p align="center">My GitHub contribution streak:</p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya1620" alt="GitHub Streak" />
 </div>
 
 <!-- GitHub Trophies Section -->
@@ -107,8 +107,9 @@
 <p align="center">Here are my GitHub trophies:</p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arya1620" alt="GitHub Trophies" />
 </div>
+
 
 
 <!-- Footer Section -->
